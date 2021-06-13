@@ -1,4 +1,4 @@
-Hi I'm Cole (he/him). 
+Hi I'm Cole (he/him) 👋 You can learn more about me here:  
 
 I'm currently a graduate student in the [Green lab](https://greenlab.ca/) at the University of Alberta. 🎓
 
