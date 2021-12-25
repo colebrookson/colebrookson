@@ -6,5 +6,5 @@ I work on computational biology, usually related to food webs and disease dynami
 
 Here on my GitHub are all the projects I'm working on, a bit of a mixture of research projects and teaching materials. 
 
-Feel free to reach out via 📧 `cole.brookson@gmail.com` or twitter @cole_brookson 
+Feel free to reach out via 📧 `cole.brookson@gmail.com` or Twitter @cole_brookson 
 
