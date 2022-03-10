@@ -1,4 +1,6 @@
-Hi I'm Cole (he/him) 👋 You can learn more about me here: https://colebrookson.com/
+# Hi I'm Cole (he/him) 👋 
+
+You can learn more about me here: https://colebrookson.com/
 
 I'm currently a graduate student in the [Green lab](https://greenlab.ca/) at the University of Alberta. 🎓
 
