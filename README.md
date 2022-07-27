@@ -1,6 +1,6 @@
 # Hi I'm Cole (he/him) 👋 
 
-I am a computational biologist, currently working as a graduate student in the [Green lab](https://greenlab.ca/) at the University of Alberta 🎓 and as an ecological modeling consultant on a variety or projects. 
+I am a computational biologist, currently working as a graduate student in the [Green lab](https://greenlab.ca/) at the University of Alberta and as an ecological modeling consultant on a variety of projects. 
 
 My research is usually related to food webs, fisheries, or disease dynamics, increasingly with interest in ecological forecasting 📈. I also have active research projects on computational pedagogy and metascience regarding publishing and equity in ecology specifically. 
 
