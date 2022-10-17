@@ -6,7 +6,7 @@ My research is usually related to food webs, fisheries, or disease dynamics, inc
 
 I am extremely passionate about open science and computational literacy in the biological sciences, and I teach introductory workshop series in programming and reproducibility methods for undergrad and grad students. 🖥️
 
-Here on my GitHub are all the projects I'm working on, a bit of a mixture of research projects and teaching materials. 
+Here on my GitHub are all the projects I'm working on, a bit of a mixture of research projects and teaching materials. Also even though I'm not a software person by trade, I do love building little tools and fun projects for myself, as well as learning new languages. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colebrookson&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
