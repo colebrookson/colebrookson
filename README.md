@@ -8,7 +8,7 @@ I am extremely passionate about open science and computational literacy in the b
 
 Here on my GitHub are all the projects I'm working on, a bit of a mixture of research projects and teaching materials. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colebrookson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colebrookson&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 You can learn more about me [here](https://colebrookson.com)
 
