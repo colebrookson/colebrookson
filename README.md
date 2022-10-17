@@ -12,6 +12,6 @@ Here on my GitHub are all the projects I'm working on, a bit of a mixture of res
 
 You can learn more about me [here](https://colebrookson.com)
 
-Feel free to reach out via 📧 `cole.brookson@gmail.com` or Twitter @cole_brookson 
+I absolutely love talking about science, software, books or any number of other topics. If you think we have similar interests, reach out and let's have a virtual or in-person coffee :coffee:
 
-
+[![Twitter Badge](https://img.shields.io/badge/-@cole_brookson-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cole_brookson)](https://twitter.com/cole_brookson) [![Linkedin Badge](https://img.shields.io/badge/-colebrookson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cole-brookson/)](https://www.linkedin.com/in/cole-brookson/) [![Gmail Badge](https://img.shields.io/badge/-cole.brookson@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:cole.brookson@gmail.com)](mailto:cole.brookson@gmail.com.com) 
