@@ -10,7 +10,7 @@ Here on my GitHub are all the projects I'm working on, a bit of a mixture of res
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colebrookson&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-You can learn more about me [here](https://colebrookson.com)
+You can learn more about me and my various research projects [here](https://colebrookson.com)
 
 I absolutely love talking about science, software, books or any number of other topics. If you think we have similar interests, reach out and let's have a virtual or in-person coffee :coffee:
 
