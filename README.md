@@ -8,7 +8,7 @@ I am extremely passionate about open science and computational literacy in the b
 
 Here on my GitHub are all the projects I'm working on, a bit of a mixture of research projects and teaching materials. Also even though I'm not a software person by trade, I do love building little tools and fun projects for myself, as well as learning new languages. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colebrookson&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)/top-langs/?username=colebrookson&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 You can learn more about me and my various research projects [here](https://colebrookson.com)
 
