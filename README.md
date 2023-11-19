@@ -1,6 +1,6 @@
-# Hi I'm Cole (he/him or they/them) 👋 
+# Hi I'm Cole 👋 
 
-I am a computational biologist, currently a PhD student in the [Carlson lab](https://carlsonlab.bio/) at Georgetown University, and with the [Verena Institute](https://www.viralemergence.org/). 
+I am a computational biologist, currently a PhD student in the [Carlson lab](https://carlsonlab.bio/) at Georgetown University, and with the [Verena Institute](https://www.viralemergence.org/). Feel free to call me any pronouns, but I typically use he/him or they/them.
 
 My PhD research is mostly thinking about how we can understand and predict viral spillover risk. I also think a lot about food webs, fisheries, and the theory behind ecological forecasting 📈. I also have active research projects on computational pedagogy and metascience regarding publishing and equity in ecology specifically. 
 
