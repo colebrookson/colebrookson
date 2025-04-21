@@ -4,7 +4,7 @@ I am a computational biologist, currently a PhD student in the [Carlson lab](htt
 
 My PhD research is mostly thinking about how we can understand and predict viral spillover risk. I also think a lot about food webs, fisheries, and the theory behind ecological forecasting 📈. I also have active research projects on computational pedagogy and metascience regarding publishing and equity in ecology specifically. 
 
-I am extremely passionate about open science and computational literacy in the biological sciences, and I teach introductory workshop series in programming and reproducibility methods for undergrad and grad students. 🖥️ I built and (sort of) maintain the UofT [R Manual](eeb-r-manual) which is a great intro resource for those new to R. 
+I am extremely passionate about open science and computational literacy in the biological sciences, and I teach introductory workshop series in programming and reproducibility methods for undergrad and grad students. 🖥️ I built and (sort of) maintain the UofT [R Manual](https://github.com/colebrookson/eeb-r-manual) which is a great intro resource for those new to R. 
 
 Here on my GitHub are all the projects I'm working on, a bit of a mixture of research projects and teaching materials. Also even though I'm not a software person by trade, I do love building little tools and fun projects for myself, as well as learning new languages. 
 
