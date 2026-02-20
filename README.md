@@ -2,7 +2,7 @@
 
 I am a computational biologist, currently a PhD student in the [Carlson lab](https://carlsonlab.bio/) at Yale University, and with the [Verena Institute](https://www.viralemergence.org/). 
 
-My PhD research is mostly thinking about how we can understand and predict viral spillover risk. I also think a lot about food webs, fisheries, and the theory behind ecological forecasting 📈. I also have active research projects on computational pedagogy and metascience regarding publishing and equity in ecology specifically. 
+My PhD research is mostly thinking about how we can understand the impacts of climate and climate change on infectious disease dynamics. I also think a lot about food webs, fisheries, and the theory behind ecological forecasting 📈. 
 
 I am extremely passionate about open science and computational literacy in the biological sciences, and I teach introductory workshop series in programming and reproducibility methods for undergrad and grad students. 🖥️ 
 
